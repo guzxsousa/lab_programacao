@@ -7,6 +7,7 @@ int main(){
     // Entrada de dados;
     puts("Informe um número inteiro: ");
     scanf("%hhd",&num);
+    
     // Saída de dados;
     printf("Hexadecimal = %X\n", num);
     printf("Octal = %o\n", num);

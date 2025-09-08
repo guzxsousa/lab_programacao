@@ -26,7 +26,9 @@ int main(){
     // Saída de dados
 
     printf("Salário Bruto = R$%.2f\n", salario_b);
+
     printf("Percentual do INSS = %.2f%%\n", percent_desconto);
+    
     printf("Salário Líquido = R$%.2f\n", salario_l);
 
     return 0;
