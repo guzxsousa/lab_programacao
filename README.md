@@ -1,4 +1,4 @@
 # Laboratório de programação - Exercícios
-## Lista 01 
-## Lista 02
+## Lista 01 - Lógica
+## Lista 02 - Estruturas de Repetição
 
