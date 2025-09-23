@@ -19,7 +19,6 @@ int main(){
         anterior = atual;
 
         atual = next;
-
         
     }
 
