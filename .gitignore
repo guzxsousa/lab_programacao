@@ -1,1 +1,4 @@
+# Ignorar pasta de confgs do VScode
 .vscode/
+# Ignorar todos arquivos compilados com extensão .e
+*.e
